@@ -104,3 +104,11 @@ If you find this repository useful:
 Let's make practical cybersecurity knowledge accessible to everyone.
 Maintained as a community-focused cybersecurity learning and implementation resource.
 
+CISO Toolkit v1.0  --> First public release
+Initial release contents
+- CISO Annual Cybersecurity Activity Calendar
+- Detailed Execution Tracker
+- CISO KPI Dashboard
+- Monthly Cybersecurity Activity Overview
+Future releases: Vulnerability Management, GRC, ISO 27001, Cloud Security, Incident Response and Risk Management.
+
